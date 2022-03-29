@@ -1,3 +1,5 @@
-console.log("Hola Mundo")
-console.log("Tercer commit")
-console.log("Cuarto commit")
+// index.js
+
+const canvas = document.getElementById("game")
+
+console.log(canvas)
